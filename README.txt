@@ -1,5 +1,5 @@
-Neighborhood Laundry — Version 5
+Neighborhood Laundry - Version 15
 
-Open index.html in your browser. Keep the assets folder next to index.html.
+Same approved Version 14 website, with a cache-busting artwork URL so mobile browsers load the corrected CASH CREDIT MOBILE artwork.
 
-Updated: clarified cash and card kiosk payment, separate washer/dryer inventory, and rewritten neighborhood section.
+Upload assets, index.html, and README.txt to GitHub repository root.
